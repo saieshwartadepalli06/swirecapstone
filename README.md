@@ -1,8 +1,8 @@
 # Innovating Beverage Demand Forecasting: Swire Coca-Cola Capstone Project
 
-## Table of Contents
-- Project Overview
-- Technologies Used
+## **Table of Contents**
+- [Project Overview] 
+- [Technologies Used]
 
 
 ## Project Overview
