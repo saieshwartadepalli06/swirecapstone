@@ -10,6 +10,8 @@
 - Challenges
 - Learnings
 
+![image](https://github.com/saieshwartadepalli06/swirecapstone/assets/157938770/353927bc-856e-41bd-818d-cd59fc931e46)
+
 ## Business Problem 
 In Spring 2024, our team, 'Swire Innovators,' at the University of Utah's Master of Science in Business Analytics program undertook a Capstone project in collaboration with Swire Coca-Cola. Our objective was to master the art of forecasting demand for their seven innovative beverage products, aiming to **optimize production** and **inventory management** across 13 states in the American West.
 
